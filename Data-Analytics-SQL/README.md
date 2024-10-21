@@ -2,7 +2,7 @@
 
 ## Task 1: Top 5 Customers by Rental Revenue (Last 6 Months)
 **Problem:** Identify the top 5 customers who have generated the most rental revenue in the past 6 months.  
-[View Solution](D:/Data-Analytics-SQL/SQL_Task_1.sql)  
+[View Solution](/Data-Analytics-SQL/SQL_Task_1.sql)  
 
 
 
@@ -13,7 +13,7 @@ This query retrieves the top 5 customers by calculating the rental revenue they 
 
 ## Task 2: Top 5 Films by Rental Revenue (Last Year)
 **Problem:** Find the top 5 films by rental revenue over the last year.  
-[View Solution](D:/Data-Analytics-SQL/SQL_Task_2.sql)  
+[View Solution](/Data-Analytics-SQL/SQL_Task_2.sql)  
 **SQL Solution:**  
 This analysis identifies the most popular films based on the revenue generated through rentals in the last year. It helps in understanding which films drive the most revenue for the business.
 
