@@ -1,3 +1,4 @@
+# **SQL Solutions for Data Analysis**
 ## My Journey with SQL and the Sakila Database
 
 While I was diving into SQL to enhance my data analysis skills, I stumbled upon something really exciting—**the Sakila database**! 🌟
