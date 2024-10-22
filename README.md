@@ -7,4 +7,4 @@ As part of my MySQL installation, this gem of a database came along, filled with
 
 Here, I’ve documented all the interesting problems I solved using SQL, each one teaching me something new and valuable about data analysis. Take a look at my SQL journey, and feel free to explore the solutions yourself! 🚀📊
 
-[Explore 🔎](/Data-Analytics-SQL/README.md)
+[# Explore 🔎](/Data-Analytics-SQL/README.md)
