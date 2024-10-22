@@ -1,4 +1,4 @@
-# **[SQL Solutions for Data Analysis]**(/Data-Analytics-SQL/README.md)
+# **[SQL Solutions for Data Analysis]** (/Data-Analytics-SQL/README.md)
 ## My Journey with SQL and the Sakila Database
 
 While I was diving into SQL to enhance my data analysis skills, I stumbled upon something really exciting—**the Sakila database**! 🌟
